@@ -1,0 +1,12 @@
+$BATCH(SOYBEAN)
+!
+! Directory    : D:\315Lab\DATA\DSSAT48\Soybean
+! Command Line : C:\DSSAT48\DSCSM048.EXE CRGRO048 B DSSBatch.v48
+! Crop         : Soybean         
+! Experiment   : ADYY1901.SBX
+! ExpNo        : 1
+! Debug        : C:\DSSAT48\DSCSM048.EXE CRGRO048 " B DSSBatch.v48"
+!
+@FILEX                                                                                        TRTNO     RP     SQ     OP     CO
+D:/315Lab/Project/P03_ClimateChange/DSSAT48/Soybean/AFTD1901.SBX                                  1      1      0      1      0
+D:/315Lab/Project/P03_ClimateChange/DSSAT48/Soybean/AFTD1901.SBX                                  2      1      0      1      0

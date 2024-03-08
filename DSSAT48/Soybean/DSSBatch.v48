@@ -1,0 +1,20 @@
+$BATCH(SOYBEAN)
+!
+! Directory    : D:\315Lab\DATA\DSSAT48\Soybean
+! Command Line : C:\DSSAT48\DSCSM048.EXE CRGRO048 B DSSBatch.v48
+! Crop         : Soybean         
+! Experiment   : ADYY1901.SBX
+! ExpNo        : 1
+! Debug        : C:\DSSAT48\DSCSM048.EXE CRGRO048 " B DSSBatch.v48"
+!
+@FILEX                                                                                        TRTNO     RP     SQ     OP     CO
+C:/Users/cyeba/Desktop/DSSAT_simulation/DSSAT48/Soybean/AGNU8101.SBX                              1      1      0      1      0
+C:/Users/cyeba/Desktop/DSSAT_simulation/DSSAT48/Soybean/AGNU8101.SBX                              2      1      0      1      0
+C:/Users/cyeba/Desktop/DSSAT_simulation/DSSAT48/Soybean/AGPC8101.SBX                              1      1      0      1      0
+C:/Users/cyeba/Desktop/DSSAT_simulation/DSSAT48/Soybean/AGPC8101.SBX                              2      1      0      1      0
+C:/Users/cyeba/Desktop/DSSAT_simulation/DSSAT48/Soybean/AGPC8102.SBX                              1      1      0      1      0
+C:/Users/cyeba/Desktop/DSSAT_simulation/DSSAT48/Soybean/AGPC8102.SBX                              2      1      0      1      0
+C:/Users/cyeba/Desktop/DSSAT_simulation/DSSAT48/Soybean/AGPC8103.SBX                              1      1      0      1      0
+C:/Users/cyeba/Desktop/DSSAT_simulation/DSSAT48/Soybean/AGPC8103.SBX                              2      1      0      1      0
+C:/Users/cyeba/Desktop/DSSAT_simulation/DSSAT48/Soybean/AGPI8101.SBX                              1      1      0      1      0
+C:/Users/cyeba/Desktop/DSSAT_simulation/DSSAT48/Soybean/AGPI8101.SBX                              2      1      0      1      0

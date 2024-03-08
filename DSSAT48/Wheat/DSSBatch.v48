@@ -1,0 +1,20 @@
+$BATCH(WHEAT)
+!
+! Directory    : D:\315Lab\DATA\DSSAT48\Wheat
+! Command Line : C:/DSSAT48/DSCSM048.EXE CSCER048 B DSSBatch.v48
+! Crop         : Wheat           
+! Experiment   : ADYY1901.WHX
+! ExpNo        : 1
+! Debug        : C:/DSSAT48/DSCSM048.EXE CSCER048 " B DSSBatch.v48"
+!
+@FILEX                                                                                        TRTNO     RP     SQ     OP     CO
+C:/Users/cyeba/Desktop/DSSAT_simulation/DSSAT48/Wheat/AGNU8101.WHX                                1      1      0      0      0
+C:/Users/cyeba/Desktop/DSSAT_simulation/DSSAT48/Wheat/AGNU8101.WHX                                2      1      0      0      0
+C:/Users/cyeba/Desktop/DSSAT_simulation/DSSAT48/Wheat/AGPC8101.WHX                                1      1      0      0      0
+C:/Users/cyeba/Desktop/DSSAT_simulation/DSSAT48/Wheat/AGPC8101.WHX                                2      1      0      0      0
+C:/Users/cyeba/Desktop/DSSAT_simulation/DSSAT48/Wheat/AGPC8102.WHX                                1      1      0      0      0
+C:/Users/cyeba/Desktop/DSSAT_simulation/DSSAT48/Wheat/AGPC8102.WHX                                2      1      0      0      0
+C:/Users/cyeba/Desktop/DSSAT_simulation/DSSAT48/Wheat/AGPC8103.WHX                                1      1      0      0      0
+C:/Users/cyeba/Desktop/DSSAT_simulation/DSSAT48/Wheat/AGPC8103.WHX                                2      1      0      0      0
+C:/Users/cyeba/Desktop/DSSAT_simulation/DSSAT48/Wheat/AGPI8101.WHX                                1      1      0      0      0
+C:/Users/cyeba/Desktop/DSSAT_simulation/DSSAT48/Wheat/AGPI8101.WHX                                2      1      0      0      0

@@ -1,0 +1,20 @@
+*Output file list
+
+@FILENAME          DESCRIPTION
+ET.OUT             Daily soil-plant-atmosphere output file           
+PlantGro.OUT       Daily plant growth output file                    
+SoilTemp.OUT       Daily soil temperature output file                
+SoilWat.OUT        Daily soil water output file                      
+Weather.OUT        Daily weather output file                         
+Mulch.OUT          Daily surface mulch output file                   
+PlantGr2.OUT       Wheat and barley specific output file             
+PlantGrf.OUT       Wheat and barley specific output file             
+Evaluate.OUT       Evaluation output file (simulated vs. measured)   
+OVERVIEW.OUT       Seasonal overview output file                     
+Plantsum.OUT       Not currently operational                         
+SoilWatBal.OUT     Seasonal soil water balance                       
+Summary.OUT        Seasonal summary output file                      
+INFO.OUT           Information output file                           
+WARNING.OUT        Warning messages                                  
+WORK.OUT           CSCER, CSP information output file                
+LUN.LST            List of output files generated                    

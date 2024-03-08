@@ -1,0 +1,12 @@
+$BATCH(CABBAGE)
+!
+! Directory    : D:\315Lab\DATA\DSSAT48\Cabbage
+! Command Line : C:\DSSAT48\DSCSM048.EXE CRGRO048 B DSSBatch.v48
+! Crop         : Cabbage         
+! Experiment   : AFTD1901.CBX
+! ExpNo        : 1
+! Debug        : C:\DSSAT48\DSCSM048.EXE CRGRO048 " B DSSBatch.v48"
+!
+@FILEX                                                                                        TRTNO     RP     SQ     OP     CO
+D:/315Lab/Project/P03_ClimateChange/DSSAT48/Cabbage/AFTD1901.CBX                                  1      1      0      0      0
+D:/315Lab/Project/P03_ClimateChange/DSSAT48/Cabbage/AFTD1901.CBX                                  2      1      0      0      0
